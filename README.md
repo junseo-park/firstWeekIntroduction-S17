@@ -1,2 +1,11 @@
 # firstWeekIntroduction-S17
-Introductions for Data Science Advanced Project Group, Spring '17
+
+## Table of Contents
+- [Abstract](abstract)
+- [Contributor](contributor)
+- [Important Links](important-links)
+- [Languages Known](languages-known)
+- [Favorite Songs](favorite-songs)
+- [Favorite Memes](favorite-memes)
+
+## Abstract
