@@ -10,7 +10,7 @@
 
 ## Abstract
 Economics and Statistics double major, interested in the intersection of the two fields.  
-_"I am a great believer in luck. The harder I work, the more of it I seem to have."_ - Coleman Cox
+_"I am a great believer in luck. The harder I work, the more of it I seem to have." - Coleman Cox_
 
 ## Contributor
 Jun Seo Park
