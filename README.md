@@ -41,6 +41,6 @@ SQL
 - Ariana Grande - Almost is Never Enough (feat. Nathan Sykes)
 
 ## Favorite Memes
-[Pacman](pacman.png)  
-[Togo](togo.png)
-[Simba](simba.png)
+![Pacman](pacman.png)  
+![Togo](togo.png)  
+![Simba](simba.png)
