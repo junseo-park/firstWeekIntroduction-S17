@@ -9,7 +9,7 @@
 - [Favorite Memes](#favorite-memes)
 
 ## Abstract
-Economics and Statistics double major, interested in the intersection of the two fields.
+Economics and Statistics double major, interested in the intersection of the two fields.  
 _"I am a great believer in luck. The harder I work, the more of it I seem to have."_ - Coleman Cox
 
 ## Contributor
