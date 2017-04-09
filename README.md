@@ -39,6 +39,7 @@ SQL
 - Code Kunst - StrOngerrr (feat. Loco & Mino)
 - Kendrick Lamar - King Kunta
 - Ariana Grande - Almost is Never Enough (feat. Nathan Sykes)
+- Nujabes - Aruarian Dance
 
 ## Favorite Memes
 ![Pacman](pacman.png)  
