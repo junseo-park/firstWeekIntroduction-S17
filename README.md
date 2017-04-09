@@ -35,9 +35,12 @@ Email: [junseopark12@gmail.com](mailto:junseopark12@gmail.com)
 SQL
 
 ## Favorite Songs
-Adele - All I Ask
-Code Kunst - StrOngerrr (feat. Loco & Mino)
-Kendrick Lamar - King Kunta
-Ariana Grande - Almost is Never Enough (feat. Nathan Sykes)
+- Adele - All I Ask
+- Code Kunst - StrOngerrr (feat. Loco & Mino)
+- Kendrick Lamar - King Kunta
+- Ariana Grande - Almost is Never Enough (feat. Nathan Sykes)
 
 ## Favorite Memes
+[Pacman](pacman.png)  
+[Togo](togo.png)
+[Simba](simba.png)
