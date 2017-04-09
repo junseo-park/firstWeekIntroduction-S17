@@ -43,4 +43,3 @@ SQL
 ## Favorite Memes
 ![Pacman](pacman.png)  
 ![Togo](togo.png)  
-![Simba](simba.png)
