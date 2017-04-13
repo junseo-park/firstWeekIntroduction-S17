@@ -19,7 +19,7 @@ Jun Seo Park
 Linkedin: [http://www.linkedin.com/in/junseopark](http://www.linkedin.com/in/junseopark)  
 Github: [http://www.github.com/junseo-park](http://www.github.com/junseo-park)  
 Inertia7: TBA  
-Email: [junseopark12@gmail.com](mailto:junseopark12@gmail.com)
+Email: junseopark12 [at] gmail [dot] com
 
 ## Languages Known
 |Language       |Skill Level    | Preference for Project (1 to 5)|
